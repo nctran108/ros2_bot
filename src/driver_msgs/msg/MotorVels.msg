@@ -1,0 +1,2 @@
+float32 motor_1_rad_sec
+float32 motor_2_rad_sec
